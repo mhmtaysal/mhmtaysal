@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mhmtaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="mhmtaysal" height="30" width="40" /></a>
-<a href="https://instagram.com/mhmtaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="mhmtaysal" height="30" width="40" /></a>
+<a href="https://instagram.com/mhmtaysal" target="blank"><img align="center" src=//*[@id="js-pjax-container"]/div[2]/div/div[2]/div[2]/div/div[1]/div/article/p[4]/a[1]/img" alt="mhmtaysal" height="30" width="40" /></a>
 <a href="https://discord.gg/eZFME7R9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="eZFME7R9" height="30" width="40" /></a>
 </p>
 
